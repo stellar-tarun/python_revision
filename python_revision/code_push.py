@@ -13,3 +13,10 @@
 ## git add .
 ## git commit -m "added tuple practice code"
 ## git push origin main
+
+##if readme file add in repo then terminal might show error its bcz the file name is not matching so run this command after the above one
+
+## git config pull.rebase false
+## git pull origin main --allow-unrelated-histories
+##press esc button then :wq
+##git push origin main
