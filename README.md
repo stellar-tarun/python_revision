@@ -18,7 +18,7 @@ Revising Python fundamentals before diving deep into Data Science and Machine Le
 
 ✅ Functions & Lambda
 
-✅ Lists, Tuples, Sets & Dictionaries
+✅ Lists, Tuples, Sets & Dictionaries 
 
 ✅ String Handling
 
@@ -66,4 +66,6 @@ Jupyter Notebook (.ipynb)
 
 Actively pushing code daily as part of consistent revision practice. Every commit = one step closer to AI/ML mastery. 🟩
 
+
 "Consistency beats intensity."
+ 
